@@ -1,5 +1,6 @@
 # PowerBI--Customer segment and Sales performance project
 ## Dataset: adventureworks2019
+Data Dictionary: https://drive.google.com/file/d/1bwwsS3cRJYOg1cvNppc1K_8dQLELN16T/view?usp=share_link
 
 ## Business Overview: 
 Adventure Works Cycle is a major international bicycle manufacturing company with its headquarters in the United States. The company operates several factories and sales offices in various countries. It distributes its products to commercial markets in North America, Europe, and Asia. The company is currently seeking ways to expand its market share and reduce sales costs.
